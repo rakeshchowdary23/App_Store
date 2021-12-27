@@ -1,0 +1,21 @@
+.button {
+  background-color: transparent;
+  border: 0;
+  color: #7b8794;
+  font-family: 'Roboto';
+  padding: 10px 15px;
+  border-bottom: 1px solid #dfe2e5;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none;
+}
+
+.tab-name {
+  list-style-type: none;
+}
+
+.active {
+  color: #2563eb;
+  border-bottom: 1px solid #2563eb;
+  font-weight: bold;
+}
